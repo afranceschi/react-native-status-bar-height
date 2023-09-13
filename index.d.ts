@@ -1,5 +1,5 @@
 
-declare module 'react-native-status-bar-height' {
+declare module '@afranceschi/react-native-status-bar-height' {
     export function getStatusBarHeight(skipAndroid?: boolean): number;
     export function isIPhoneX(): boolean
     export function isIPhoneXMax(): boolean
